@@ -1,0 +1,5 @@
+main: me.whitehatd.aquila.queue.QueuePlugin
+api-version: 1.21
+name: AquilaQueue
+author: WhitehatD
+version: 1.0
